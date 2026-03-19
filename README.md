@@ -1,2 +1,2 @@
 # GenAI
-Large Language Models, Prompt Engineering
+Large Language Models, Prompt Engineering, Computer Vision
